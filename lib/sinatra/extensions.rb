@@ -1,3 +1,4 @@
+require 'i18n'
 require 'active_support'
 
 class Sinatra::Base
